@@ -1,4 +1,4 @@
-### Hi there, I think programming is a pleasure. 👋
+### Hi there 👋 I think programming is a pleasure. 
 #### 关关难过关关过，前路漫漫亦灿灿
 
 <!--
