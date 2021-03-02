@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I think programming is a pleasure. 👋
+#### 关关难过关关过，前路漫漫亦灿灿
 
 <!--
 **qqIsAProgramer/qqIsAProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
