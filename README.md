@@ -1,5 +1,5 @@
 ### Hi there 👋 I think programming is a pleasure. 
-#### 关关难过关关过，前路漫漫亦灿灿
+#### 宁坎坷的路骑我的二轮摩托车，横竖我的人生甘哪狗屎
 
 <!--
 **qqIsAProgramer/qqIsAProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
