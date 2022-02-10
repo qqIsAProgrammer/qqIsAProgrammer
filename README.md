@@ -1,4 +1,4 @@
-#### 宁坎坷的路骑我的二轮摩托车，横竖我的人生甘哪狗屎
+#### In the bottleneck
 
 <!--
 **qqIsAProgramer/qqIsAProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
